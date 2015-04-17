@@ -1,7 +1,7 @@
 package tk.coolv1994.plugins.help;
 
-import tk.coolv1994.gawdserver.events.Command;
-import tk.coolv1994.gawdserver.utils.Chat;
+import tk.coolv1994.gawdapi.events.Command;
+import tk.coolv1994.gawdapi.utils.Chat;
 
 import java.io.*;
 

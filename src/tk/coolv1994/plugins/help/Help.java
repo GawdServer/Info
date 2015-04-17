@@ -1,6 +1,6 @@
 package tk.coolv1994.plugins.help;
 
-import tk.coolv1994.gawdserver.plugin.Plugin;
+import tk.coolv1994.gawdapi.plugin.Plugin;
 
 import java.io.BufferedWriter;
 import java.io.File;
