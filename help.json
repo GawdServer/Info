@@ -1,0 +1,9 @@
+{
+	"commands": {
+		"info": {
+			"description": "Display information set by the operator.",
+			"usage": "!info [subject]",
+			"permission": "info.use"
+		}
+	}
+}

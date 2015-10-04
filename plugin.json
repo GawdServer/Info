@@ -1,8 +1,8 @@
 {
-  "name": "Help",
-  "version": "1.0",
-  "mainClass": "tk.coolv1994.plugins.help.Help",
+  "name": "Info",
+  "version": "1.1",
+  "mainClass": "io.github.gawdserver.info.Info",
   "commands": {
-    "help": "tk.coolv1994.plugins.help.CommandHelp"
+    "info": "io.github.gawdserver.info.CommandInfo"
   }
 }
